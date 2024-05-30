@@ -1,0 +1,5 @@
+int32 Movimiento
+float64 Distancia
+float64 Giro
+---
+int32 Resultado
